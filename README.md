@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">I'm from Paraygraj,UP<br><br>Passionate and dedicate learner in the fields of technology.</p>
+<p align="center">I'm from Paraygraj, UP<br><br>Passionate and dedicate learner in the fields of technology.</p>
 
 ###
 
